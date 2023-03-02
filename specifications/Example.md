@@ -22,9 +22,7 @@ PyEED is a Python-encoded data model of an Enzyme Engineering Database. It suppo
 - __domain_architecture__
   - Type: string
   - Description: Domain architecture of the protein sequence
-- __domain_databases__
-  - Type: ProteinDomains
-  - Description: Domain architecture of the protein sequence
+
 
 ### ProteinDomains
 
