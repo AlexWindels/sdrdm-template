@@ -2,7 +2,7 @@
 
 CANDy is a workflow for the detection and annotation of protein domains in carbohydrate active enzymes (CAZymes). It is a unique assembly of several (python and non-python based) tools, packages and databases. CANDy is part of the PyEED consortium. PyEED is a Python-encoded data model of an Enzyme Engineering Database. It supports the scalable and reproducible analysis of sequence and structure data of protein families, and makes data and processes findable, accessible, interoperable, and reusable according to the FAIR data principles.
 
-### Protein_sequences
+### ProteinSequences
 
 - __protein_sequence_id__
   - Type: string
@@ -29,7 +29,7 @@ CANDy is a workflow for the detection and annotation of protein domains in carbo
   - Type: string
   - Description: Database(s) the domain(s) have been retrieved from
 
-### Domain_assemblies 
+### DomainAssemblies 
 
 - __protein_domain__
   - Type: string
@@ -38,7 +38,7 @@ CANDy is a workflow for the detection and annotation of protein domains in carbo
   - Type: string
   - Description: Identifiers of the proteins that follow the domain composition
 
-### Domain_curation
+### DomainCuration
 
 - __domain_name__
   - Type: string
